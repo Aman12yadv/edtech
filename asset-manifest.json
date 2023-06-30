@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edtech/static/css/main.82d4ef0c.css",
+    "main.js": "/edtech/static/js/main.f98b3769.js",
+    "static/js/787.28cb0dcd.chunk.js": "/edtech/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/edtech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edtech/index.html",
+    "main.82d4ef0c.css.map": "/edtech/static/css/main.82d4ef0c.css.map",
+    "main.f98b3769.js.map": "/edtech/static/js/main.f98b3769.js.map",
+    "787.28cb0dcd.chunk.js.map": "/edtech/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d4ef0c.css",
+    "static/js/main.f98b3769.js"
+  ]
+}
